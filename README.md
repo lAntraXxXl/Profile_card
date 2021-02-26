@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Profile card component
 
-
+![](https://repository-images.githubusercontent.com/342476903/3ca9fa00-77c4-11eb-851c-a5d532e49db1)
 
 ## Welcome! 👋
 
